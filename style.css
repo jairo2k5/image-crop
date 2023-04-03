@@ -68,7 +68,7 @@ footer {
 }
 
 footer::after {
-  content: "Refeito por Jairo Silva";
+  content: "Rocketseat Class";
   opacity: 0.6;
   font-size: 0.8rem;
 }
